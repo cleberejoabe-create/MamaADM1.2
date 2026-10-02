@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Depois abra:
+site host
 
 http://127.0.0.1:5000
 
@@ -65,6 +65,3 @@ Após entrar, use **Meu perfil > Alterar senha** para trocar a senha. Administra
 
 Produtos sem ficha técnica são tratados como itens de estoque vendidos diretamente, como refrigerantes e águas.
 
-## Observação
-
-Esta é uma versão local inicial. Para uso real em vários computadores/celulares, backup automático, emissão fiscal, integração com delivery, impressoras, permissões avançadas e publicação na internet, recomenda-se uma etapa posterior de produção.
